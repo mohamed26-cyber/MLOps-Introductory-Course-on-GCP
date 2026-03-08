@@ -3,7 +3,8 @@
 This course is being taught at as part of [Master Year 2 Data Science Supaero](https://supaerodatascience.github.io/index.html)
 
 
-<img src=https://www.isae-supaero.fr/local/cache-vignettes/L190xH102/siteon0-e5814.png width="150">
+<img src="https://www.isae-supaero.fr/wp-content/uploads/2025/03/logo.svg" width="180">
+
 
 This course is designed to be held during 5 classes lasting 3 hours each. This course will span over 15 hours.
 
@@ -114,4 +115,6 @@ We thank the teachers of Supaero for their confidence, especially Emmanuel Rache
 
 ## License
 
-All the code in this repository belongs to <img src=https://join.headmind.com/wp-content/uploads/2021/12/Logo-HeadMind-Partners-PNG-BLEU.png width="170">
+All the code in this repository belongs to HeadMind Partners AI 
+
+<img src="https://user-images.githubusercontent.com/63151412/167391313-4683cc69-2bf6-4597-b767-5c18e2bbbfa0.png" width="180">
