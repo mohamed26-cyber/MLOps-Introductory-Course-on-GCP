@@ -115,6 +115,6 @@ We thank the teachers of Supaero for their confidence, especially Emmanuel Rache
 
 ## License
 
-All the code in this repository belongs to HeadMind Partners AI 
+All the code in this repository belongs to [HeadMind Partners AI](https://www.headmind.com/en/)
 
 <img src="https://user-images.githubusercontent.com/63151412/167391313-4683cc69-2bf6-4597-b767-5c18e2bbbfa0.png" width="180">
