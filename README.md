@@ -59,14 +59,14 @@ this Git repository.
 
 ### Prerequisites
 
-- **Python >3.10.x**
+- **Python >= 3.10.x**
 - Git
 - GCP Account with credits
 
 ### Step 1: Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jdiamant/MLOps-Introductory-Course-on-GCP.git
 cd MLOps-Introductory-Course-on-GCP
 ```
 
