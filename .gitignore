@@ -8,3 +8,7 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 .vscode/
+
+*.png
+**/mlartifacts/
+mlflow.db
